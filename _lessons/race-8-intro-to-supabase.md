@@ -2,16 +2,16 @@
 
 ## Formål
 
-Vi skal forstå, hvad Supabase er, og hvordan det kan bruges som backend til en React-app. Målet er, at vi i undervisningen får oprettet et Supabase-projekt, lavet en `products`-tabel, indsat data og hentet data via det REST API, som Supabase genererer automatisk.
+I dag introducerer vi web app som begreb og sætter det i perspektiv til det, vi allerede kender fra websites. Vi opbygger en fælles forståelse af centrale begreber som database, CRUD, klient-server-arkitektur, HTTP, REST og BaaS. Dagen afsluttes med, at vi i fællesskab sætter Supabase op fra bunden, opretter en `products`-tabel og tester det automatisk genererede REST API direkte i browseren.
 
 ## Forberedelse
 
-- Du skal se denne film: https://www.youtube.com/watch?v=v2W7QJMMIA0
+- **Se:** https://www.youtube.com/watch?v=v2W7QJMMIA0
 
 > Note: Forsøg at få så meget med fra videoen, som du kan. Det er helt ok, hvis ikke alt giver mening første gang.
 
-- Du skal tage et kig på https://supabase.com/ og danne dig et første indtryk af, hvad Supabase er.
-- Du skal læse denne artikel om forskellen på website og web app: https://www.geeksforgeeks.org/websites-apps/difference-between-web-application-and-website/
+- **Undersøg:** https://supabase.com/ — danner dig et første indtryk af, hvad Supabase er.
+- **Læs:** https://www.geeksforgeeks.org/websites-apps/difference-between-web-application-and-website/
 
 ## Agenda
 
@@ -26,8 +26,8 @@ Vi skal forstå, hvad Supabase er, og hvordan det kan bruges som backend til en 
 <details>
    <summary><strong>2. Intro til Supabase</strong></summary>
 
-- Hvad er Supabase?
-- Vi ser på, hvordan det bruges som backend til en web app.
+- Vi introducerer Supabase og ser på, hvad det er.
+- Vi ser på, hvordan Supabase bruges som backend til en web app.
 
 </details>
 
@@ -74,7 +74,7 @@ Vi skal forstå, hvad Supabase er, og hvordan det kan bruges som backend til en 
 
 ### Opgaver
 
-- Kom igang med Supabase (products): https://race.notion.site/Kom-igang-med-Supabase-products-30bbc239db118040b60ec546849ed144
+- Kom i gang med Supabase (products): https://race.notion.site/Kom-igang-med-Supabase-products-30bbc239db118040b60ec546849ed144
 - Kom i gang med Supabase (Users): https://github.com/cederdorff/react-supabase-users/blob/main/README.md
 
 ### GitHub-projekter
