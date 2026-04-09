@@ -6,12 +6,12 @@ I dag introducerer vi web app som begreb og sætter det i perspektiv til det, vi
 
 ## Forberedelse
 
-- **Se:** https://www.youtube.com/watch?v=v2W7QJMMIA0
+- **Se:** [What Is Supabase? - What Is Web Development](https://www.youtube.com/watch?v=v2W7QJMMIA0)
 
 > Note: Forsøg at få så meget med fra videoen, som du kan. Det er helt ok, hvis ikke alt giver mening første gang.
 
-- **Undersøg:** https://supabase.com/ — danner dig et første indtryk af, hvad Supabase er.
-- **Læs:** https://www.geeksforgeeks.org/websites-apps/difference-between-web-application-and-website/
+- **Undersøg:** [Supabase – Build in a weekend, scale to millions](https://supabase.com/)
+- **Læs:** [Difference Between Web Application and Website](https://www.geeksforgeeks.org/websites-apps/difference-between-web-application-and-website/)
 
 ## Agenda
 
@@ -70,12 +70,12 @@ I dag introducerer vi web app som begreb og sætter det i perspektiv til det, vi
 ### Slides
 
 - Web App vs Website: slides vil blive tilgængelige her
-- Supabase slides: https://cederdorff.com/race/slides/supabase.pdf
+- [Supabase – Introduktionsslides](https://cederdorff.com/race/slides/supabase.pdf)
 
 ### Opgaver
 
-- Kom i gang med Supabase (products): https://race.notion.site/Kom-igang-med-Supabase-products-30bbc239db118040b60ec546849ed144
-- Kom i gang med Supabase (Users): https://github.com/cederdorff/react-supabase-users/blob/main/README.md
+- [Kom i gang med Supabase (products)](https://race.notion.site/Kom-igang-med-Supabase-products-30bbc239db118040b60ec546849ed144)
+- [Kom i gang med Supabase (Users)](https://github.com/cederdorff/react-supabase-users/blob/main/README.md)
 
 ### GitHub-projekter
 
